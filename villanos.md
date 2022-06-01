@@ -4,4 +4,4 @@
 * Eren Jeager
 * Octopus
 * Electro
-* Capitan America
+
